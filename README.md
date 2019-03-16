@@ -3,8 +3,8 @@
 Majors:<br>
 <!--- BREAKLINE USING \ --->
 Computer Science\ 
-<!--- BREAKLINE USING double lines --->
-Information Systems
+Information Systems<br>
+
 
 
 <!--- BREAKLINE USING &nbsp --->
