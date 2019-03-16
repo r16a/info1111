@@ -2,6 +2,6 @@
 :computer:**Majors:**<br>
 * Computer Science<br> 
 * Information Systems<br>
-* Data Science<br>
+* Statistical Data Science<br>
 * Software Engineering
 
