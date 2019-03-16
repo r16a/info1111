@@ -2,7 +2,7 @@
 <!--- BREAKLINE USING <BR> --->
 Majors:<br>
 <!--- BREAKLINE USING \ --->
-Computer Science\
+Computer Science\ 
 <!--- BREAKLINE USING double lines --->
 Information Systems
 
