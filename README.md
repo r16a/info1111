@@ -1,2 +1,2 @@
-# info1111
-# Cs
+# INFO1111: Computing 1A Professionalism
+
