@@ -1,5 +1,5 @@
 # INFO1111: Computing 1A Professionalism
-Majors:
+Majors:<br>
 Computer Science<br>
 Information Systems<br>
 Data Science<br>
