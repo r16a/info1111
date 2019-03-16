@@ -1,7 +1,13 @@
 # INFO1111: Computing 1A Professionalism
-<b>Majors:<b><br>
-Computer Science<br>
-Information Systems<br>
-Data Science<br>
+<!--- BREAKLINE USING <BR> --->
+Majors:<br>
+<!--- BREAKLINE USING \ --->
+Computer Science\
+<!--- BREAKLINE USING double lines --->
+Information Systems
+
+
+<!--- BREAKLINE USING &nbsp --->
+Data Science&nbsp;
 Software Engineering
 
